@@ -8,11 +8,9 @@ Se usa para agregar un cambio realizado, con el fin de posteriormente poder hace
 Se usa para guardar en la historia los cambios realizados que anteriormente ya fueron agregados con el git add; este comando se puede usar desde terminal.
 
 
-## Investigacion PARTE II
 
-### Punto 6
-![alt text]({3A9A9655-7C79-434C-A167-324954358960}.png)
 
 ## Investigacion PARTE II (Trabajo en parejas)
 PRUEBA DE CAMBIOS AL MISMO TIEMPO CON MI COMPAÑERO
 
+![alt text]({3A9A9655-7C79-434C-A167-324954358960}.png)
